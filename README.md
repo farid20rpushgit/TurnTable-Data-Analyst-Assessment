@@ -1,9 +1,9 @@
 # TurnTable-Data-Analyst-Assessment
-Objective
+## Objective
 
 This project consolidates Radio, YouTube, and Audiomack music consumption data to generate a unified Weekly Top 10 chart.
 
-Task 1: Methodology
+##Task 1: Methodology
 Data Cleaning
 Standardized column names
 Converted text fields to lowercase
@@ -11,20 +11,20 @@ Removed extra whitespace
 Converted platform metrics to numeric format
 Aggregated duplicate song records
 
-Normalization
+###Normalization
 Platform metrics were normalized using max-value scaling to account for differences between radio impressions and streaming counts.
 Weighting Assumptions
 YouTube: 35%
 Audiomack: 35%
 Radio: 30%
 
-Data Limitations
+###Data Limitations
 Radio data did not contain artist metadata.
 Radio matches were performed using song titles only.
 Songs with identical titles across artists may introduce ambiguity.
 
 
-Task 2: Industry Insight & Interpretation
+##Task 2: Industry Insight & Interpretation
 
 PBUY's immediate success on streaming platforms reflects the speed of digital fan engagement and release-week hype. By June 2022, Asake had already built significant momentum through previous releases, creating strong anticipation and first-week streaming demand.
 
