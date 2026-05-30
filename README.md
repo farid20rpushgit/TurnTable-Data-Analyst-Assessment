@@ -5,18 +5,18 @@ This project consolidates Radio, YouTube, and Audiomack music consumption data t
 
 ## Task 1: Methodology
 - Data Cleaning
-Standardized column names
-Converted text fields to lowercase
-Removed extra whitespace
-Converted platform metrics to numeric format
-Aggregated duplicate song records
+- Standardized column names
+- Converted text fields to lowercase
+- Removed extra whitespace
+- Converted platform metrics to numeric format
+- Aggregated duplicate song records
 
 ### Normalization
 Platform metrics were normalized using max-value scaling to account for differences between radio impressions and streaming counts.
 Weighting Assumptions
-YouTube: 35%
-Audiomack: 35%
-Radio: 30%
+- YouTube: 35%
+- Audiomack: 35%
+- Radio: 30%
 
 ### Data Limitations
 Radio data did not contain artist metadata.
