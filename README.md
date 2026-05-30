@@ -26,9 +26,9 @@ Songs with identical titles across artists may introduce ambiguity.
 
 
 ## Part 2: Industry Insight & Interpretation
+- PBUY's #1 debut on streaming reflects the impact of release-week demand and digital-first music consumption. Streaming platforms respond immediately to listener behavior, and Asake's momentum from earlier hits generated strong first-week activity driven by fans, social media conversations, and repeat plays. The movement from #1 to #3 in week two suggests release-week hype began to normalize as listening shifted from discovery to sustained consumption.
 
-PBUY's immediate success on streaming platforms reflects the speed of digital fan engagement and release-week hype. By June 2022, Asake had already built significant momentum through previous releases, creating strong anticipation and first-week streaming demand.
+- The rise from #6 to #1 on radio reflects the slower adoption cycle of Nigerian radio programming. Unlike streaming platforms where demand is immediate, radio growth depends on playlist additions, presenter and DJ support, audience response, and promotional activity. Strong streaming performance likely validated audience demand, resulting in increased radio rotation in the following week.
 
-The song's movement from #6 to #1 on radio demonstrates the delayed adoption cycle typical of Nigerian radio programming. Strong streaming performance likely validated audience demand, resulting in increased radio rotation in subsequent weeks.
+- The weaker TV performance (#31) compared with streaming and radio highlights differences in distribution speed and audience behavior. Television airplay depends on factors such as video availability, playlist approval processes, and scheduling constraints, creating a slower path to chart growth. It also reflects the broader shift in Nigerian music discovery toward mobile streaming and social platforms, where younger audiences typically engage with new releases first.
 
-The significantly weaker TV performance compared to streaming and radio highlights structural differences in music discovery and distribution. Television airplay depends on video availability, playlist approvals, and scheduling, while younger Nigerian audiences increasingly discover music through streaming and social platforms.
