@@ -3,7 +3,8 @@
 
 This project consolidates Radio, YouTube, and Audiomack music consumption data to generate a unified Weekly Top 10 chart.
 
-## Task 1: Methodology
+## Task 1
+## Methodology
 - Data Cleaning
 - Standardized column names
 - Converted text fields to lowercase
